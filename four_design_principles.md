@@ -23,3 +23,14 @@ characteristics.
   2. Expose certain data and functions of that object that can be access by
      other objects.
   3. Restrict access to data and objects to be access only between that object. 
+
+#Decomposition
+> Is taking a whole thing and dividing it up into different parts.
+> Or, on the flip side, taking a bunch of separate parts with different
+> functionalities and combining them together to form a whole.
+
+# Generalization
+> Reduce the amount of redundancy when resolving problems.
+
+This can be archived by inheritance of classes, adding common attributes and
+behaviours on the parent class.
