@@ -24,12 +24,17 @@ characteristics.
      other objects.
   3. Restrict access to data and objects to be access only between that object. 
 
-#Decomposition
+## Decomposition
 > Is taking a whole thing and dividing it up into different parts.
 > Or, on the flip side, taking a bunch of separate parts with different
 > functionalities and combining them together to form a whole.
 
-# Generalization
+> There are three parts of decomposition:
+  1. Association
+  2.  
+  3.
+
+## Generalization
 > Reduce the amount of redundancy when resolving problems.
 
 This can be archived by inheritance of classes, adding common attributes and
